@@ -18,68 +18,68 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.nav-link{
-color: #000000!important;
-
-}
-.vb342e43cce74334078208b4ddbf556d8:hover{
-box-shadow: 0 50.3px 49.7px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-ul{
-list-style: circle;
-}
-html{
-scroll-behavior: smooth;
-}
-a{
-text-decoration: none!important;
-}
-.z9854d33182ea2c9cd26d6e351d2824de p,.z9854d33182ea2c9cd26d6e351d2824de a,.z9854d33182ea2c9cd26d6e351d2824de span,.z9854d33182ea2c9cd26d6e351d2824de label{
-font-size:16px!important;
-}
-.x461f4465fc99c3b401ab8f842d6d38fb p,.x461f4465fc99c3b401ab8f842d6d38fb span,.x461f4465fc99c3b401ab8f842d6d38fb label{
-font-size:16px!important;
-}
-.btn-md{
-padding: 14.7px 30.1px;
-border-radius: 0;
+.z91bc41c834a17556c4c6ebe366115dad a,.x2e1fb966662e864e5edf96e363c1cc58 a{
+color:#070707!important;
+text-decoration: underline !important;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.x8d65aae197ce3f8c62b4b43b80e5c43d{
+a{
+text-decoration: none!important;
+}
+html{
+scroll-behavior: smooth;
+}
+.x2e1fb966662e864e5edf96e363c1cc58 p,.x2e1fb966662e864e5edf96e363c1cc58 span,.x2e1fb966662e864e5edf96e363c1cc58 label{
+font-size:16px!important;
+}
+.cdc0cd743f1ab5b5d038b5757d4254a2d{
 background-color:#ffc107!important;
 border-color:#ffc107!important;
 color:#000000!important;
 }
+.navbar a{
+font-size: 18.3px!important;
+font-weight: bold;
+}
+.nav-link{
+color: #000000!important;
+
+}
+ul{
+list-style: circle;
+}
+.btn-md{
+padding: 15px 29.5px;
+border-radius: 0;
+}
 *{
 font-family: 'Kumbh Sans', sans-serif;
 }
-.x461f4465fc99c3b401ab8f842d6d38fb a{
-font-size:16px;
+footer *{
+font-size:16px !important;
 }
 footer{
-background:#000000;
+background:#080808;
 color:#ffffff;
 }
+.c15b490266930dd15a7bd06b694f50730:hover{
+box-shadow: 0 50.3px 50px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+.z91bc41c834a17556c4c6ebe366115dad p,.z91bc41c834a17556c4c6ebe366115dad a,.z91bc41c834a17556c4c6ebe366115dad span,.z91bc41c834a17556c4c6ebe366115dad label{
+font-size:16px!important;
+}
 .nav-item{
-padding-left:7.9px;
-padding-right:8.2px;
+padding-left:8.4px;
+padding-right:7.9px;
 padding-top:4.5px;
 padding-bottom:4.5px;
 }
-.navbar a{
-font-size: 17.5px!important;
-font-weight: bold;
-}
-.z9854d33182ea2c9cd26d6e351d2824de a,.x461f4465fc99c3b401ab8f842d6d38fb a{
-color:#0d0d0d!important;
-text-decoration: underline !important;
-}
-footer *{
-font-size:16px !important;
+.x2e1fb966662e864e5edf96e363c1cc58 a{
+font-size:16px;
 }
 </style>
 </head>
@@ -88,9 +88,9 @@ font-size:16px !important;
 <a class="navbar-brand" href="index.html"  ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="d-flex navbar-nav align-items-center ml-auto"><li class="nav-item ">
-<a class="nav-link a8dc66b18df694bc3cc0ab72ccdb9eb9a" href="index.html"  >Testing 2 Guithub</a>
-</li><li class="nav-item"><a class="a8dc66b18df694bc3cc0ab72ccdb9eb9a nav-link" rel=nofollow href="about-us.html">About Us</a>
+<ul class="navbar-nav d-flex ml-auto align-items-center"><li class="nav-item ">
+<a class="nav-link f5309a6c472c8ffd0291fec5dc875f413" href="index.html"  >Github test 04</a>
+</li><li class="nav-item"><a class="nav-link f5309a6c472c8ffd0291fec5dc875f413" rel=nofollow href="about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -157,10 +157,10 @@ This website is owned and published by:
 </p>
 </section>
 <footer>
-<div class="py-4 container pt-5" >
-<div class="row"><div class="col-lg-3"><p><a class="a8dc66b18df694bc3cc0ab72ccdb9eb9a" href="sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="a8dc66b18df694bc3cc0ab72ccdb9eb9a" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="a8dc66b18df694bc3cc0ab72ccdb9eb9a" href="about-us.html" rel="nofollow">About Us</a></p>
+<div class="container pt-5 py-4" >
+<div class="row"><div class="col-lg-3"><p><a class="f5309a6c472c8ffd0291fec5dc875f413" href="sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="f5309a6c472c8ffd0291fec5dc875f413" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="f5309a6c472c8ffd0291fec5dc875f413" href="about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
